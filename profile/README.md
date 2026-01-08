@@ -76,8 +76,6 @@ If you are a new group member:
 ## How to contribute
 - Follow the structure defined in each repository
 - Add documentation in Markdown whenever possible
-- Use Jupyter notebooks only when they add pedagogical value
-- Do not commit large datasets or raw simulation outputs
 
 ---
 
