@@ -46,19 +46,22 @@ and references.
 ### Software and tools
 Documentation and guides for analysis frameworks, simulations, and infrastructure.
 
+<h2>Software</h2>
+
+<pre>
 software/
 ├── analysis/
-│ ├── threeML/
-│ ├── gammapy/
-│ ├── jetset/
-│ └── bc_tools/
+│   ├── threeML/
+│   ├── gammapy/
+│   ├── jetset/
+│   └── bc_tools/
 ├── simulations/
-│ ├── geant4/
-│ └── corsika/
+│   ├── geant4/
+│   └── corsika/
 ├── infrastructure/
-│ └── slurm/
-└── python/
-└── ml/
+│   └── slurm/
+└── ML_python/
+</pre>
 
 ---
 
