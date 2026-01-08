@@ -3,7 +3,7 @@
 This GitHub organization hosts **internal guides, tutorials, and example workflows**
 for the data analysis tools used by the research group.
 
-The goal is to provide a **central, version-controlled knowledge base** for
+The goal is to provide a **comon knowledge base** for
 students and collaborators working on analysis, simulations, and modeling.
 
 ---
