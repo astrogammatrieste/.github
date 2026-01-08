@@ -24,8 +24,6 @@ Repositories are organized around two main axes:
 ### Experiments
 Documentation and examples related to specific instruments or observatories.
 
-<h2>Instruments</h2>
-
 <pre>
 instruments/
 ├── fermi/
@@ -45,8 +43,6 @@ and references.
 
 ### Software and tools
 Documentation and guides for analysis frameworks, simulations, and infrastructure.
-
-<h2>Software</h2>
 
 <pre>
 software/
