@@ -21,17 +21,19 @@ All repositories are **private** unless explicitly stated otherwise.
 
 Repositories are organized around two main axes:
 
-### Instruments and missions
+### Experiments
 Documentation and examples related to specific instruments or observatories.
+
+## Instruments
 
 instruments/
 ├── fermi/
-│ ├── lat/
-│ └── gbm/
+│   ├── lat/
+│   └── gbm/
 └── magic_lst1/
-├── magic/
-├── lst1/
-└── joint_magic_lst1/
+    ├── magic/
+    ├── lst1/
+    └── joint_magic_lst1/
 
 Each subdirectory contains instrument-specific tutorials, example analyses,
 and references.
