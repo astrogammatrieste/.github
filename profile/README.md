@@ -25,7 +25,7 @@ Repositories are organized around two main axes:
 Documentation and examples related to specific instruments or observatories.
 
 <pre>
-instruments/
+Exoperiments/
 ├── fermi/
 │   ├── lat/
 │   └── gbm/
