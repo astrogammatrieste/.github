@@ -24,8 +24,9 @@ Repositories are organized around two main axes:
 ### Experiments
 Documentation and examples related to specific instruments or observatories.
 
-## Instruments
+<h2>Instruments</h2>
 
+<pre>
 instruments/
 ├── fermi/
 │   ├── lat/
@@ -34,6 +35,8 @@ instruments/
     ├── magic/
     ├── lst1/
     └── joint_magic_lst1/
+</pre>
+
 
 Each subdirectory contains instrument-specific tutorials, example analyses,
 and references.
